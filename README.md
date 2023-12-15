@@ -1,12 +1,12 @@
 # Cíl projektu 
-Cílem projektu bude na fotce najít a rozpoznat sudoku a to poté vyřešit. Plánujeme vyzkoušet několik metod a výsledky porovnat.
+Cílem projektu bylo na fotce najít a rozpoznat sudoku a to poté vyřešit.
 
 
-
-
+Ukázka mobilní aplikace:
 
 https://github.com/Strojove-uceni/23206-final-sudoku-solver/assets/20053580/3441bcf3-66f6-4882-b502-34c4bf7c2a8a
 
+Aplikace pro Android je dostupná ke stažení na následujícím [odkaze](https://drive.google.com/file/d/17PyetA5SJNqTdwO6CJBGIE1f51gFTyZM/view?usp=sharing) 
 
 
 # Checklist
