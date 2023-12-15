@@ -1,6 +1,7 @@
 # Cíl projektu 
 Cílem projektu bylo na fotce najít a rozpoznat sudoku a to poté vyřešit.
 
+Ukázka algoritmu je v souboru DEMO.ipynb
 
 Ukázka mobilní aplikace:
 
